@@ -1,0 +1,182 @@
+[
+    {
+       "route": "romannumeral",
+       "serviceName": "Roman Numeral"
+    },
+    {
+       "route": "federalholidays",
+       "serviceName": "US Federal Holiday"
+    },
+    {
+       "route": "getaprilfoolsdays",
+       "serviceName": "Get April Fools Days"
+    },
+    {
+       "route": "buddhist",
+       "serviceName": "To Buddhist"
+    },
+    {
+       "route": "check_leap",
+       "serviceName": "Check Leap Year"
+    },
+    {
+       "route": "chinese-new-year",
+       "serviceName": "Get Chinese New Year"
+    },
+    {
+       "route": "next-malaysia-day",
+       "serviceName": "Next Malaysia Day"
+    },
+    {
+       "route": "getdaysuntilCincoDeMayo",
+       "serviceName": "Get Days Until Cinco DeMayo"
+    },
+    {
+       "route": "datetoseason",
+       "serviceName": "To Season"
+    },
+    {
+       "route": "genshin",
+       "serviceName": "Get Days In Genshin Banner"
+    },
+    {
+       "route": "getdaysleftinseason",
+       "serviceName": "Get Days Left In Season"
+    },
+    {
+       "route": "warhammerimperial",
+       "serviceName": "To Warhammer Imperial"
+    },
+    {
+       "route": "getdaysuntil",
+       "serviceName": "Get Days Until"
+    },
+    {
+       "route": "daysinmonth",
+       "serviceName": "Get Days InMonth"
+    },
+    {
+       "route": "yearssinceelectricguitar",
+       "serviceName": "Years Since Electric Guitar"
+    },
+    {
+       "route": "englanddate",
+       "serviceName": "To England Date"
+    },
+    {
+       "route": "firstiphonereleased",
+       "serviceName": "First Iphone Released"
+    },
+    {
+       "route": "get-passed-years",
+       "serviceName": "Get Passed Years"
+    },
+    {
+       "route": "gorman",
+       "serviceName": "To Gorman"
+    },
+    {
+       "route": "getdaysuntilhalloween",
+       "serviceName": "Get Days Until Halloween"
+    },
+    {
+       "route": "hebrew",
+       "serviceName": "To Hebrew"
+    },
+    {
+       "route": "interfixcal",
+       "serviceName": "To International Fixed Calendar"
+    },
+    {
+       "route": "interstellar",
+       "serviceName": "To Interstellar"
+    },
+    {
+       "route": "iso8601calendar",
+       "serviceName": "To ISO8601 Calendar"
+    },
+    {
+       "route": "italiandate",
+       "serviceName": "To Italian Date"
+    },
+    {
+       "route": "kurdish",
+       "serviceName": "To Kurdish"
+    },
+    {
+       "route": "localizedmonth",
+       "serviceName": "To Localized Month"
+    },
+    {
+       "route": "daysuntilmar10",
+       "serviceName": "Days Until Mar10"
+    },
+    {
+       "route": "martiandate",
+       "serviceName": "To Martian Date"
+    },
+    {
+       "route": "mayanlong",
+       "serviceName": "To Mayan Long"
+    },
+    {
+       "route": "next-menstrual-cycle",
+       "serviceName": "Next Menstrual Cycle"
+    },
+    {
+       "route": "morsecode",
+       "serviceName": "To Morse Code"
+    },
+    {
+       "route": "newyeareve",
+       "serviceName": "To Next New Year Eve"
+    },
+    {
+       "route": "meteorshowerdates",
+       "serviceName": "Get Next Meteor Shower"
+    },
+    {
+       "route": "palindromedate",
+       "serviceName": "Check Palindrome Date"
+    },
+    {
+       "route": "persiancalendar",
+       "serviceName": "To Persian"
+    },
+    {
+       "route": "simplejulian",
+       "serviceName": "To Simple Julian"
+    },
+    {
+       "route": "StandardArmyConverter",
+       "serviceName": "To Standard Army"
+    },
+    {
+       "route": "tostarwarsday",
+       "serviceName": "To Star Wars Day"
+    },
+    {
+       "route": "tamrielic",
+       "serviceName": "To Tamrielic"
+    },
+    {
+       "route": "animals",
+       "serviceName": "to Zodiac Animal Year"
+    },
+    {
+       "route": "unixTime",
+       "serviceName": "To Unix Time"
+    },
+    {
+       "route": "vacation_destinations",
+       "serviceName": "Get Vacation Destinations"
+    },
+    {
+       "route": "vietnamesedate",
+       "serviceName": "To Vietnamese Date"
+    },
+    {
+       "route": "womensfifa",
+       "serviceName": "To Womens FIFA"
+    }
+ ]
