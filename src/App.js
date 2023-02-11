@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import React, {Component} from 'react';
 import RoundSlider from "./RoundSlider";
-import DatesServicesData from './dates-services-data.json';
 
 class App extends Component {  
 
@@ -210,32 +209,6 @@ class App extends Component {
               pathColor="#4a5872"
             />
           </div>
-        </div>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <form onSubmit={ this.onFormSubmit }>  
-          <div className="form-group">
-            <select onChange={this.handleChangeRouteName}>
-              <option>
-                -----Select-----
-              </option>
-              {DatesServicesData.map((dateOption) => (
-                <option value={dateOption.route}>
-                  {dateOption.serviceName}
-                </option>
-              ))}
-            </select>    
-            <button className="btn btn-primary">Let the Magic Happen</button>
-          </div>
-        </form>
-        <div id="convert-text">
-          { this.state.convertedDate } 
         </div>
       </header>
       <div>
