@@ -121,9 +121,6 @@ class App extends Component {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          UW Software Engineering Studio - Dates Frontend
-        </p>
         <div className="Top-row">
           <div className="First-slider">
             <RoundSlider
